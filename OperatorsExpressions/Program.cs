@@ -6,7 +6,8 @@ namespace OperatorsExpressions
     {
         static void Main(string[] args)
         {
-            Console.WriteLine((char)99);
+            int a = 15;
+            Console.WriteLine(a);
             Console.Read();
         }
     }
